@@ -48,7 +48,6 @@ $(document).ready(function() {
   $("#drinks").html($(".drinks option:selected").text() + " - " + drinks);
   $("#total").html(total);
 
-
   $('.add-btn').click(function() {
     let african = $(".african option:selected").val();
     let asian = $(".asian option:selected").val();
