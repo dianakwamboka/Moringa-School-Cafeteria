@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', (_) => {
+window.addEventListener('DOMContentLoaded', (event) => {
   fetch('https://spoonacular.com/food-api')
   .then((response) => response.json())
   .then((images) => console.log(images));

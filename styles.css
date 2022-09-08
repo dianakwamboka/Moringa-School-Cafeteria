@@ -17,9 +17,10 @@ img{
     min-width: 8cm;
     max-height: 4.7cm;
 }
-#menu{
+menu{
     font-size: larger;
     font-style: italic;
+    padding: 33%;
 
 }
 .column {
