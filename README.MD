@@ -14,7 +14,7 @@ Students have been loosing time trying to find a good,clean and yet affordable c
 # Project Setup:
 HTML -For Web pages development.
 CSS -to style and layout web pages.
-JavaScript -allows users to interact with web pages.
+JavaScript - to allows users to interact with web pages.
   
 # License
 MIT License
@@ -40,7 +40,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 #MVP
     • Landing page
-    • Order 
+    • Order  and menu
     • Contacts info.
 
 Github link
