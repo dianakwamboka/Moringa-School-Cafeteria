@@ -1,9 +1,9 @@
 # Project Name: MoringaSchoolCafeteria
 # author Diana Kwamboka
 # Contacts 
-   dianzkibgalifan@gmail.com
-   diana.kwamboka@student.moringaschool.com
-   0706941602
+   - dianzkibgalifan@gmail.com
+   - diana.kwamboka@student.moringaschool.com
+   - 0706941602
 
 
 # Project description
