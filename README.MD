@@ -12,9 +12,9 @@ This is a  web application,where clients(students) can order amaizing African/As
 Students have been loosing time trying to find a good,clean and yet affordable cafeteria around the school the closest cafeteria is located atleast 300metres away from the school,which is time consuming especially to Junior developer’s,who at times need enough time to keep up with onerous class work and be at per with the content.To make sure that the students loose no time food hunting,i am developing an online application/cafeteria where  students will order food and drinks online.
 
 # Project Setup:
-HTML -For Web pages development.
-CSS -to style and layout web pages.
-JavaScript - to allows users to interact with web pages.
+- HTML -For Web pages development.
+- CSS -to style and layout web pages.
+- JavaScript ~ to allows users to interact with web pages.
   
 # License
 MIT License
