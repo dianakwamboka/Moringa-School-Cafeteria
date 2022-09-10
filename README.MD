@@ -42,6 +42,9 @@ SOFTWARE.
     • Landing page
     • Order  and menu
     • Contacts info.
+# Video recording of how the site functions 
+- https://drive.google.com/file/d/1YplfmjTkHz6MbO7yC_dU7IuJsh-HPWEA/view?usp=sharing
+
 
 Github link
 https://dianakwamboka.github.io/Moringa-School-Cafeteria/
